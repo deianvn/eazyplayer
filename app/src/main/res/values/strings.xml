@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Credit Planner</string>
+    <string name="add_loan_icon_desc">Add new loan button</string>
+    <string name="add_new_loan">Add new loan</string>
+    <string name="name">Name</string>
+    <string name="add">Add</string>
+</resources>
